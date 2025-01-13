@@ -1,9 +1,5 @@
-/// avatar info variables
-var backgroundimg = {width  : null, height: null , url: null},
-    useravatar    = {width  : null, height: null , x : null ,y:null , url: null , avatar : null},
-    username      = {width  : null, height: null , x : null ,y:null , url: null},
-    Konvas   = {Stage  : null, layer : null , backimage : null, useravatar : null , avgroupe : null, username : null }
-    welcomedata = {backwidth : null,backheight : null ,avawidth :  null , avaheight :  null , avaX :  null ,avaY : null , avapear : false}
+
+
 /// elements variables
 var submitbtn = document.getElementById("submit"),
     resetbtn = document.getElementById('reset'),
